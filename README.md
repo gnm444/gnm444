@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Narasimha Gonapa
+- I have co-founded two start ups, failed but succeeded in learning from those failures.
 - 👀 I’m interested in OTEL
 - 🌱 I’m currently learning observability
 - 💞️ I’m looking to collaborate on Open telemetry
